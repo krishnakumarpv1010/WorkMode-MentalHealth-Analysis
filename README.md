@@ -62,8 +62,7 @@ Feel free to fork this repository and contribute by improving the dashboard, add
 ---
 
 ### 📬 Connect With Me
-[LinkedIn](your-linkedin-url) | [Portfolio](your-portfolio-url) | [GitHub](your-github-url)
+[LinkedIn](https://www.linkedin.com/in/krishnakumar-p-v?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPB44RksLQ2ig6Ua3xwCzyQ%3D%3D) | [GitHub](https://github.com/krishnakumarpv1010)
 
 ---
 
-Let me know if you'd like any modifications! 🚀
