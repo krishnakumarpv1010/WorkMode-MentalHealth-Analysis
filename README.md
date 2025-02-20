@@ -26,7 +26,8 @@ This Power BI project analyzes the impact of **remote, hybrid, and office work s
 - **Excel/Python (Optional)**: Data preprocessing and cleaning.
 
 ## 📸 Dashboard Preview
-*(Attach screenshots of key visuals from the Power BI report here)*
+![image alt](https://github.com/krishnakumarpv1010/WorkMode-MentalHealth-Analysis/blob/main/Screenshot%202025-02-20%20151059.png?raw=true)
+![image alt](
 
 ## 🔧 How to Use This Project
 1. **Clone the Repository**:
