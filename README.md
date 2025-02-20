@@ -32,7 +32,7 @@ This Power BI project analyzes the impact of **remote, hybrid, and office work s
 ## 🔧 How to Use This Project
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/mental-health-analysis.git
+ https://github.com/krishnakumarpv1010/WorkMode-MentalHealth-Analysis.git
    ```
 2. **Open the Power BI File**
    - Download the dataset and Power BI (.pbix) file.
